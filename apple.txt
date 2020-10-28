@@ -1,0 +1,5 @@
+mzstatic.com
+swcdn.apple.com
+itunes-apple.com
+swscan.apple.com
+osxapps.itunes.apple.com
