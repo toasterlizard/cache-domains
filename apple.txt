@@ -5,6 +5,7 @@ swscan.apple.com
 osxapps.itunes.apple.com
 swdownload.apple.com
 aaplimg.com
+*.aaplimg.com
 iosapps.itunes.apple.com
 swquery.apple.com
 albert.apple.com
